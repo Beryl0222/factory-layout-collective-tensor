@@ -1,0 +1,14 @@
+{
+  "global": [
+    2,
+    128,
+    512,
+    259
+  ],
+  "source_partitions": 24,
+  "destination_partitions": 33,
+  "burst_align": 64,
+  "link_max": 32768,
+  "peak_scratch_bytes": 2097152,
+  "seed": 183
+}
